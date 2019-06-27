@@ -1,0 +1,30 @@
+.header {
+    background-color: blue;
+    color: aliceblue;
+}
+
+.header p{
+    font-size: 30px;
+}
+
+
+.menu {
+    background-color: red;
+}
+
+span{
+    font-size: 20px;
+}
+
+ul{
+    font-size: 15px;
+}
+
+strong{
+    font-size: 15px;
+    color: green;
+}
+
+div strong{
+    background-color: aliceblue;
+}
