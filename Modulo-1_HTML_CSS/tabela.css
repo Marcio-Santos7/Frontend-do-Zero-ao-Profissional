@@ -1,0 +1,19 @@
+table{
+    border: 2px solid black;
+}
+
+td, th{
+    border: 2px solid black;
+}
+
+.corAmarela{
+    background-color: yellow;
+}
+
+.corVioleta{
+    background-color: blueviolet;
+}
+
+.corVerde{
+    background-color: green;
+}
