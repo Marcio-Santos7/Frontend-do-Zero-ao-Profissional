@@ -27,3 +27,14 @@ img{
     margin-bottom: 5px;
     margin-left: 160px;
 }
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 16px;
+}
