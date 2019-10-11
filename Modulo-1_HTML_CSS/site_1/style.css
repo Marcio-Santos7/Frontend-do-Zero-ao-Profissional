@@ -8,18 +8,17 @@
     width: 990px;
     background-color: blue;
     margin-left: 180px;
+
 }
 
 .logo{
     width: 50%;
-    background-color: yellow;
     float: left;
 }
 
 .menu-itens{
     float: right;
     width: 50%;
-    background-color: red;
 }
 
 img{
@@ -37,4 +36,39 @@ li{
     margin-left: 10px;
     margin-right: 10px;
     margin-bottom: 16px;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: #f9ffff;
+    font-size: 12px;
+}
+
+a:hover{
+    margin-top: 0px;
+    padding: 15px;
+    background-color: #3580c1;
+}
+
+.banner-ext{
+    background-color: #3479ba;
+    height: 300px;
+    width: 1350px;
+    display: flex;
+}
+
+
+.banner-int-rigth{
+    margin-left: 145px;
+    background-color: red;
+    height: 300px;
+    width: 510px;
+}
+
+.foto{
+    margin-right: 145px;
+    background-color: yellow;
+    height: 300px;
+    width: 470px;
 }
