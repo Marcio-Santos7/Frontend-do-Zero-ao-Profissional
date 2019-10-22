@@ -109,4 +109,13 @@ button{
 .modelo-foto img{
     margin-top: 40px;
     margin-right: 30px;
+    margin-bottom: 40px;
+}
+
+.rodape{
+    text-align: center;
+    height: 40px;
+    background-color: #3479ba;
+    color: #ffffff;
+    padding-top: 20px;
 }
